@@ -24,11 +24,6 @@ typora-copy-images-to: img
 
    **[点击这里可以迅速获得优惠券](https://www.aliyun.com/minisite/goods?userCode=eogi8dax)。**
 
-https://www.aliyun.com/minisite/goods?userCode=eogi8dax
-
-![1577170416862](img/1577170416862.png)
-
-
 
 2. 克隆本项目，打成jar包，会生成jar包，或者到这里[直接下载]()也行（已经打好包了）
 
